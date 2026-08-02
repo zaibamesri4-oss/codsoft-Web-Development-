@@ -1,1 +1,1 @@
-# codsoft-Web-Development-
+Completed CodSoft Level 1 Task 1 - Personal Portfolio Website using HTML and CSS.Completed CodSoft Level 1 Task 2 - Responsive Fresh Fruits Landing Page using HTML and CSS.Completed CodSoft Level 1 Task 3 - Modern Calculator using HTML, CSS, and JavaScript.
